@@ -24,3 +24,16 @@ F:\C# Projects\Handwritten digits image recognition\Handwritten digits recogniti
 F:\C# Projects\Handwritten digits image recognition\Handwritten digits recognition\Handwritten digits recognition\bin\Debug\Handwritten digits recognition.exe.config
 F:\C# Projects\Handwritten digits image recognition\Handwritten digits recognition\Handwritten digits recognition\bin\Debug\Handwritten digits recognition.exe
 F:\C# Projects\Handwritten digits image recognition\Handwritten digits recognition\Handwritten digits recognition\bin\Debug\Handwritten digits recognition.pdb
+G:\Handwritten-digits-image-recognition\Handwritten digits image recognition\Handwritten digits recognition\Handwritten digits recognition\bin\Debug\Handwritten digits recognition.exe.config
+G:\Handwritten-digits-image-recognition\Handwritten digits image recognition\Handwritten digits recognition\Handwritten digits recognition\bin\Debug\Handwritten digits recognition.exe
+G:\Handwritten-digits-image-recognition\Handwritten digits image recognition\Handwritten digits recognition\Handwritten digits recognition\bin\Debug\Handwritten digits recognition.pdb
+G:\Handwritten-digits-image-recognition\Handwritten digits image recognition\Handwritten digits recognition\Handwritten digits recognition\obj\Debug\Handwritten digits recognition.csproj.AssemblyReference.cache
+G:\Handwritten-digits-image-recognition\Handwritten digits image recognition\Handwritten digits recognition\Handwritten digits recognition\obj\Debug\Handwritten_digits_recognition.Closing_Form.resources
+G:\Handwritten-digits-image-recognition\Handwritten digits image recognition\Handwritten digits recognition\Handwritten digits recognition\obj\Debug\Handwritten_digits_recognition.Forms.Drawing_Form.resources
+G:\Handwritten-digits-image-recognition\Handwritten digits image recognition\Handwritten digits recognition\Handwritten digits recognition\obj\Debug\Handwritten_digits_recognition.Menu.resources
+G:\Handwritten-digits-image-recognition\Handwritten digits image recognition\Handwritten digits recognition\Handwritten digits recognition\obj\Debug\Handwritten_digits_recognition.Properties.Resources.resources
+G:\Handwritten-digits-image-recognition\Handwritten digits image recognition\Handwritten digits recognition\Handwritten digits recognition\obj\Debug\Handwritten_digits_recognition.QuickGuide_Form.resources
+G:\Handwritten-digits-image-recognition\Handwritten digits image recognition\Handwritten digits recognition\Handwritten digits recognition\obj\Debug\Handwritten digits recognition.csproj.GenerateResource.cache
+G:\Handwritten-digits-image-recognition\Handwritten digits image recognition\Handwritten digits recognition\Handwritten digits recognition\obj\Debug\Handwritten digits recognition.csproj.CoreCompileInputs.cache
+G:\Handwritten-digits-image-recognition\Handwritten digits image recognition\Handwritten digits recognition\Handwritten digits recognition\obj\Debug\Handwritten digits recognition.exe
+G:\Handwritten-digits-image-recognition\Handwritten digits image recognition\Handwritten digits recognition\Handwritten digits recognition\obj\Debug\Handwritten digits recognition.pdb

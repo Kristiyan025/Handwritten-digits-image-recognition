@@ -64,6 +64,8 @@
     <Compile Include="Forms\Menu_Form.Designer.cs">
       <DependentUpon>Menu_Form.cs</DependentUpon>
     </Compile>
+    <Compile Include="Messages\MessageDB.cs" />
+    <Compile Include="NeuralNetworks\NeuralNetwork.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Forms\QuickGuide_Form.cs">

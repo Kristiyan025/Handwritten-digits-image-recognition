@@ -2,7 +2,11 @@
 {
     using System;
     using System.Drawing;
+    using System.IO;
+    using System.Linq;
+    using System.Text;
     using System.Windows.Forms;
+    using Handwritten_digits_recognition.NeuralNetworks;
 
     public partial class Drawing_Form : Form
     {
@@ -25,6 +29,10 @@
         private Random r = new Random();
 
         private const int bias = 20;
+
+        private NeuralNetwork nn;
+
+        private int imgId = 0;
 
         public Drawing_Form(int hoverOff)
         {
@@ -249,6 +257,14 @@
             lblNumber.Visible = true;
             lblText.Visible = true;
             ColorTimer.Enabled = true;
+            double[] input = new double[alphas.Length * alphas[0].Length];
+            for (int i = 0, id = 0; i < alphas.Length; i++)
+                for (int j = 0; j < alphas[i].Length; j++)
+                    input[id++] = 1.0 - alphas[i][j];
+            double max = input.Max();
+            input = input.Select(x => x / max).ToArray();
+            lblNumber.Text = this.nn.Predict(input).ToString();
+            lblClear_Click(sender, e);
         }
 
         private void Drawing_Form_Load(object sender, EventArgs e)
@@ -257,6 +273,26 @@
             lblNumber.Visible = false;
             lblText.Visible = false;
             ColorTimer.Enabled = false;
+            this.nn = new NeuralNetwork(@"../../../NeuralNetworks/nn80.540_#72421.txt");
+        }
+
+        private void btnSave_Click(object sender, EventArgs e)
+        {
+            Digit_Form dForm = new Digit_Form();
+            if (dForm.ShowDialog() == DialogResult.Cancel) return;
+            using (StreamWriter sw = new StreamWriter($"../../../Dataset/img-{imgId++}.txt", false, Encoding.GetEncoding("windows-1251")))
+            {
+                sw.WriteLine(dForm.Digit);
+                sw.WriteLine(alphas.Length);
+                sw.WriteLine(alphas[0].Length);
+                for (int i = 0; i < alphas.Length; i++)
+                {
+                    for (int j = 0; j < alphas[i].Length; j++)
+                        sw.Write($"{(int)Math.Round((1.0 - alphas[i][j]) * 256):D3} ");
+                    sw.WriteLine();
+                }
+            }
+            lblClear_Click(sender, e);
         }
     }
 }

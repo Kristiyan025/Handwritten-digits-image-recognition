@@ -1,0 +1,81 @@
+{
+  "format": 1,
+  "restore": {
+    "G:\\Handwritten-digits-image-recognition\\Handwritten digits image recognition\\Handwritten digits recognition\\FileProcessing\\FileProcessing.csproj": {}
+  },
+  "projects": {
+    "G:\\Handwritten-digits-image-recognition\\Handwritten digits image recognition\\Handwritten digits recognition\\FileProcessing\\FileProcessing.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\Handwritten-digits-image-recognition\\Handwritten digits image recognition\\Handwritten digits recognition\\FileProcessing\\FileProcessing.csproj",
+        "projectName": "FileProcessing",
+        "projectPath": "G:\\Handwritten-digits-image-recognition\\Handwritten digits image recognition\\Handwritten digits recognition\\FileProcessing\\FileProcessing.csproj",
+        "packagesPath": "C:\\Users\\PMGZam1\\.nuget\\packages\\",
+        "outputPath": "G:\\Handwritten-digits-image-recognition\\Handwritten digits image recognition\\Handwritten digits recognition\\FileProcessing\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PMGZam1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "G:\\Handwritten-digits-image-recognition\\Handwritten digits image recognition\\Handwritten digits recognition\\Handwritten digits recognition\\Handwritten digits recognition.csproj": {
+                "projectPath": "G:\\Handwritten-digits-image-recognition\\Handwritten digits image recognition\\Handwritten digits recognition\\Handwritten digits recognition\\Handwritten digits recognition.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\Handwritten-digits-image-recognition\\Handwritten digits image recognition\\Handwritten digits recognition\\Handwritten digits recognition\\Handwritten digits recognition.csproj": {
+      "restore": {
+        "projectUniqueName": "G:\\Handwritten-digits-image-recognition\\Handwritten digits image recognition\\Handwritten digits recognition\\Handwritten digits recognition\\Handwritten digits recognition.csproj",
+        "projectName": "Handwritten digits recognition",
+        "projectPath": "G:\\Handwritten-digits-image-recognition\\Handwritten digits image recognition\\Handwritten digits recognition\\Handwritten digits recognition\\Handwritten digits recognition.csproj",
+        "frameworks": {
+          "net461": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    }
+  }
+}

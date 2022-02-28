@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.168
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Handwritten digits recognition", "Handwritten digits recognition\Handwritten digits recognition.csproj", "{E117DF24-42E2-4A63-9783-675815A70DCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileProcessing", "FileProcessing\FileProcessing.csproj", "{3713C2A6-5044-4DDC-91A9-B4CE7DADC5DB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{E117DF24-42E2-4A63-9783-675815A70DCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E117DF24-42E2-4A63-9783-675815A70DCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E117DF24-42E2-4A63-9783-675815A70DCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3713C2A6-5044-4DDC-91A9-B4CE7DADC5DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3713C2A6-5044-4DDC-91A9-B4CE7DADC5DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3713C2A6-5044-4DDC-91A9-B4CE7DADC5DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3713C2A6-5044-4DDC-91A9-B4CE7DADC5DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

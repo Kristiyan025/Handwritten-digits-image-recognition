@@ -1,0 +1,18 @@
+G:\Handwritten-digits-image-recognition\Handwritten digits image recognition\Handwritten digits recognition\FileProcessing\bin\Debug\netcoreapp3.1\FileProcessing.exe
+G:\Handwritten-digits-image-recognition\Handwritten digits image recognition\Handwritten digits recognition\FileProcessing\bin\Debug\netcoreapp3.1\FileProcessing.deps.json
+G:\Handwritten-digits-image-recognition\Handwritten digits image recognition\Handwritten digits recognition\FileProcessing\bin\Debug\netcoreapp3.1\FileProcessing.runtimeconfig.json
+G:\Handwritten-digits-image-recognition\Handwritten digits image recognition\Handwritten digits recognition\FileProcessing\bin\Debug\netcoreapp3.1\FileProcessing.runtimeconfig.dev.json
+G:\Handwritten-digits-image-recognition\Handwritten digits image recognition\Handwritten digits recognition\FileProcessing\bin\Debug\netcoreapp3.1\FileProcessing.dll
+G:\Handwritten-digits-image-recognition\Handwritten digits image recognition\Handwritten digits recognition\FileProcessing\bin\Debug\netcoreapp3.1\FileProcessing.pdb
+G:\Handwritten-digits-image-recognition\Handwritten digits image recognition\Handwritten digits recognition\FileProcessing\obj\Debug\netcoreapp3.1\FileProcessing.GeneratedMSBuildEditorConfig.editorconfig
+G:\Handwritten-digits-image-recognition\Handwritten digits image recognition\Handwritten digits recognition\FileProcessing\obj\Debug\netcoreapp3.1\FileProcessing.AssemblyInfoInputs.cache
+G:\Handwritten-digits-image-recognition\Handwritten digits image recognition\Handwritten digits recognition\FileProcessing\obj\Debug\netcoreapp3.1\FileProcessing.AssemblyInfo.cs
+G:\Handwritten-digits-image-recognition\Handwritten digits image recognition\Handwritten digits recognition\FileProcessing\obj\Debug\netcoreapp3.1\FileProcessing.csproj.CoreCompileInputs.cache
+G:\Handwritten-digits-image-recognition\Handwritten digits image recognition\Handwritten digits recognition\FileProcessing\obj\Debug\netcoreapp3.1\FileProcessing.dll
+G:\Handwritten-digits-image-recognition\Handwritten digits image recognition\Handwritten digits recognition\FileProcessing\obj\Debug\netcoreapp3.1\FileProcessing.pdb
+G:\Handwritten-digits-image-recognition\Handwritten digits image recognition\Handwritten digits recognition\FileProcessing\obj\Debug\netcoreapp3.1\FileProcessing.genruntimeconfig.cache
+G:\Handwritten-digits-image-recognition\Handwritten digits image recognition\Handwritten digits recognition\FileProcessing\obj\Debug\netcoreapp3.1\FileProcessing.csproj.AssemblyReference.cache
+G:\Handwritten-digits-image-recognition\Handwritten digits image recognition\Handwritten digits recognition\FileProcessing\bin\Debug\netcoreapp3.1\Handwritten digits recognition.exe
+G:\Handwritten-digits-image-recognition\Handwritten digits image recognition\Handwritten digits recognition\FileProcessing\bin\Debug\netcoreapp3.1\Handwritten digits recognition.pdb
+G:\Handwritten-digits-image-recognition\Handwritten digits image recognition\Handwritten digits recognition\FileProcessing\bin\Debug\netcoreapp3.1\Handwritten digits recognition.exe.config
+G:\Handwritten-digits-image-recognition\Handwritten digits image recognition\Handwritten digits recognition\FileProcessing\obj\Debug\netcoreapp3.1\FileProcessing.csproj.CopyComplete
